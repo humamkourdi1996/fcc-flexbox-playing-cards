@@ -12,6 +12,10 @@ The goal of this lab is to demonstrate proficiency with **CSS Flexbox**. The lay
 - HTML5
 - CSS3 (Focus on Flexbox)
 
+## 🚀 Live Demo
+You can view the working final result here:
+https://humamkourdi1996.github.io/fcc-flexbox-playing-cards/
+
 Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 
 User Stories:
